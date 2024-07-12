@@ -70,3 +70,4 @@ Based on the layered architecture design, our handler is responsible for listeni
 
 ## Future Enhancements
 * Support API to manage the event streaming service.
+* Extend the layered architecture to have a repository layer that handles interaction with kafka topics
